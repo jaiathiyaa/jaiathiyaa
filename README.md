@@ -132,8 +132,14 @@ A computer-vision system for **4-stage dementia classification from MRI scans**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaiathiyaa&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiathiyaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=jaiathiyaa&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiathiyaa&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 </p>
 
 ---
