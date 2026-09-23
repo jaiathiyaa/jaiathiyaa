@@ -115,7 +115,6 @@ A computer-vision system for **4-stage dementia classification from MRI scans**.
 ### Mobile
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat\&logo=react\&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
 
 ---
 
