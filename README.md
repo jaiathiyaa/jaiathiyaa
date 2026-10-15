@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Jai%20Athiyaa%20R&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2575FF&center=true&vCenter=true&width=600&lines=Building+RAG+%26+Multi-Agent+Systems;Applied+ML+with+PyTorch;Full-Stack+with+React+%26+FastAPI" alt="Typing animation" />
+
+</div>
+
 # 👋 Hi, I'm Jai Athiyaa R
 
 ### AI/ML Engineer • Full-Stack Developer • Computer Science & Engineering Undergraduate
