@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jai-athiyaa-r-919192294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jai-athiyaa-r-919192294" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:jaiathiyaa183@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-AI%2FML%20%26%20Full--Stack%20roles-2ea44f?style=for-the-badge" />
 </p>
